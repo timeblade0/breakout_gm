@@ -1,0 +1,1 @@
+global.mousecontrol = 0;
